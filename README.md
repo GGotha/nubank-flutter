@@ -1,16 +1,27 @@
-# nubank
+# Nubank Home
 
-A new Flutter project.
+This project belongs to a my personal serie of "Recreating interfaces with flutter"
 
-## Getting Started
+### Requirements
 
-This project is a starting point for a Flutter application.
+- Connected Device (simulator or physical device)
+- Flutter stable version (preferable 1.24.0-2.0.pre.66)
 
-A few resources to get you started if this is your first Flutter project:
+### How to run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Development
+  - flutter run
+- Production
+  - flutter run --release
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Images
+
+<img src="assets/app/splash_screen.png" />
+<img src="assets/app/home.png" />
+<img src="assets/app/card_two.png" />
+<img src="assets/app/card_three.png" />
+<img src="assets/app/top_menu.png" />
+
+### References
+
+- "Criando a Home do Nubank com Flutter - Por Renato Mota"
